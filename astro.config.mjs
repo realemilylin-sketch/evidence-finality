@@ -8,6 +8,7 @@ export default defineConfig({
     starlight({
       title: 'THE SPACE AS',
       plugins: [starlightThemeFlexoki()],
+customCss: ['./src/styles/custom.css'],
 
       // 可选：如果你想首页直接是 /starthere
       // 如果你希望首页是 docs 根目录的 index.mdx，则删掉这一行

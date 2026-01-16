@@ -1,0 +1,22 @@
+/* 1) 更稳定的长文阅读宽度 */
+:root {
+  --sl-content-width: 48rem; /* 默认通常更宽，收紧更利于 1600+ 长文 */
+}
+
+/* 2) 行距略提升，长文更舒服 */
+.sl-markdown-content {
+  line-height: 1.75;
+}
+
+/* 3) 标题层级的间距更“文档化” */
+.sl-markdown-content h2 {
+  margin-top: 2.2rem;
+}
+.sl-markdown-content h3 {
+  margin-top: 1.6rem;
+}
+
+/* 可选：让代码块/引用块更克制（如果你未来会用） */
+.sl-markdown-content blockquote {
+  margin: 1.25rem 0;
+}
