@@ -3,6 +3,13 @@ title: When Continuation Is No Longer Neutral
 description: The threshold condition where remaining in an environment begins to bias judgment, not as an option but as a posture.
 ---
 
+**Definition.** Continuation becomes non-neutral when staying in an environment starts to change what you will accept, choose, or tolerate—so the background becomes an active force in outcome-making.
+
+This matters because harm is often incremental. People rarely notice the exact point a space crosses from “fine” to “shaping,” but their standards and decisions quietly shift as exposure continues.
+
+This page will give you a threshold lens: how to detect the cues that an environment has moved from background to active influence.
+
+
 Not every uncomfortable space is dangerous, and not every calming space is beneficial. The point of this site is not to moralize environments. The point is to name conditions. One of the most important conditions is the moment when continuation inside an environment is no longer neutral.
 
 Continuation is usually treated as a passive default. People stay in rooms, stay in offices, stay in apartments, stay in workflows, and assume that time itself is harmless. If something becomes wrong, they expect a clear signal: a crisis, a conflict, a visible breakdown. But many environments do not announce the moment they begin to matter. They cross a threshold quietly. After the threshold, remaining is no longer simply remaining. It is exposure. It is training. It is drift.

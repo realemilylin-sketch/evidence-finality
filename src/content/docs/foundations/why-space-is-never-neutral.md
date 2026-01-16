@@ -3,6 +3,13 @@ title: Why Space Is Never Neutral
 description: Neutral is not a color or a style. It is a behavioral claim about whether a field biases judgment.
 ---
 
+**Definition.** No space is neutral because every environment sets defaults—what feels normal, tolerable, urgent, or safe—through background conditions rather than explicit instruction.
+
+This matters because “neutral” is often a claim made when influence is unmeasured. When the defaults are invisible, people keep paying the cost (fatigue, impatience, drift) without knowing what they are adapting to.
+
+This page will give you a stable way to evaluate an environment by its behavioral defaults, not by its style or intention.
+
+
 Neutral is one of the most misused words in interior language. It is usually applied to palettes that are beige, gray, white, or muted. It is used to describe rooms that avoid ornament, avoid bold pattern, or avoid strong personality. In this common usage, neutral means safe. It means unlikely to offend. It means background.
 
 But neutrality is not a visual description. It is a behavioral claim. To call a space neutral is to claim that it does not push perception or judgment in any particular direction. That is a much stronger statement than most people intend. In practice, almost no interior is neutral under that definition. A room always produces a posture. A field always carries bias. The bias may be subtle, but it is present because perception is never passive.

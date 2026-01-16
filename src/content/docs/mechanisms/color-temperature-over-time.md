@@ -3,6 +3,13 @@ title: Color Temperature Over Time
 description: Why “warm” and “cool” are not static labels, and how background temperature shifts regulate judgment across a day.
 ---
 
+**Definition.** Color temperature over time is the cumulative effect a palette produces during continued exposure—how warmth/coolness changes attention, arousal, and visual rest as minutes become hours.
+
+This matters because color is usually chosen for first impression, not for endurance. A scheme that photographs well can still generate slow fatigue if it keeps the nervous system slightly “on,” never allowing perception to downshift.
+
+This page will give you a method to judge color as a long-duration regulator, not a static decoration choice.
+
+
 Color temperature is usually treated as a simple choice. Warm colors feel inviting. Cool colors feel calm. Neutral colors feel safe. These phrases are repeated so often that they become a shorthand for taste. But in lived interiors, temperature is not a static property. It is a behavior that changes with light, scale, reflection, and time.
 
 When this site uses the phrase color temperature, it does not mean a paint swatch category. It means a baseline bias in how the field is read by the nervous system. Temperature shifts perceived enclosure, perceived distance, and the sense of exposure. It changes whether a space feels like it contains you or leaves you visible. That shift affects how long a person can remain without fatigue, and it shapes the posture of judgment under uncertainty.

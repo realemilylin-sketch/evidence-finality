@@ -3,6 +3,13 @@ title: Space Is Felt Before It Is Seen
 description: Why the nervous system registers a room as a condition field before the mind forms a visual interpretation.
 ---
 
+**Definition.** Space is felt before it is seen: the nervous system registers orientation, pressure, openness, and safety cues before the eye stabilizes on form or style.
+
+This matters because many “design problems” are actually pre-visual problems. If the background state is tense, overstimulating, or unstable, a room can look correct while remaining hard to inhabit—because perception never fully settles.
+
+This page will give you a practical way to identify the early, nonverbal signals that bias comfort and judgment before conscious interpretation begins.
+
+
 People talk about spaces as if they are primarily visual. They describe rooms in terms of style, colors, materials, and objects. They assume that perception begins when the eye recognizes what is present. This assumption is convenient because it makes interiors a matter of taste. If space is mostly visual, then it can be reduced to preference: I like this, I dislike that.
 
 But spatial experience begins earlier than recognition. A room is felt before it is seen. This does not mean there is no visual component. It means the visual system itself is not neutral. It is an embodied system tied to the nervous system’s need for orientation, safety, and prediction. Before a person identifies a chair or a painting, the body registers the field the chair and painting exist within. The body is already responding to the room’s baseline long before the mind forms a story about what the room “is.”

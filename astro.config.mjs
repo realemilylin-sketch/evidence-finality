@@ -16,14 +16,13 @@ customCss: ['./src/styles/custom.css'],
 
       sidebar: [
         {
-          label: 'Start',
-          items: [
-            // 这些文件需要存在于 src/content/docs/ 下
-            // starthere.mdx / principles.mdx / colophon.mdx
-            { label: 'Start here', slug: 'starthere' },
-            { label: 'Principles', slug: 'principles' },
-            { label: 'Colophon', slug: 'colophon' },
-          ],
+         label: 'About',
+    items: [
+      { label: 'About', slug: 'index' },       // 关键：指向 src/content/docs/index.mdx
+      { label: 'Start here', slug: 'starthere' },
+      { label: 'Principles', slug: 'principles' },
+      { label: 'Colophon', slug: 'colophon' },
+    ],
         },
 
         // 自动生成目录：目录名必须与 src/content/docs/ 下的文件夹一致

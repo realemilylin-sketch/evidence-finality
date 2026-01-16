@@ -3,6 +3,13 @@ title: Visual Density and Cognitive Load
 description: Why the true cost of a room is not how much is in it, but how much the eye must do to resolve it.
 ---
 
+**Definition.** Visual density is the amount of information the eye must resolve per moment; cognitive load is the mental cost of continuously parsing that information to stay oriented.
+
+This matters because overload rarely comes from one object—it comes from uninterrupted parsing. Even beautiful details can become exhausting when the background never offers low-information rest.
+
+This page will give you a diagnostic lens for identifying where density is created (pattern, edges, contrast, scale) and how to reduce load without making a space empty.
+
+
 Visual density is often confused with clutter. People imagine a dense room as one filled with objects, patterns, and decorations. They imagine a low-density room as minimal, empty, and clean. This intuition is understandable, but it misses what density actually is in lived experience.
 
 In this framework, density is not the count of items. It is the amount of information the eye must process to form a stable model of the field. A room can be minimal and still be dense if it uses sharp contrast, reflective materials, and geometric fragmentation that multiplies edges. A room can be full and still be low-density if the information is coherent, layered, and predictable. Density is not about taste. It is a mechanical property of how much work is required to see.

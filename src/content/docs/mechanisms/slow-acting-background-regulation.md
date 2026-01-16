@@ -3,6 +3,13 @@ title: Slow-Acting Background Regulation
 description: How environments change judgment by shifting baselines and thresholds rather than producing immediate reactions.
 ---
 
+**Definition.** Slow-acting background regulation is the way environments shape mood and judgment gradually, through continuous low-level signals rather than noticeable events.
+
+This matters because the strongest influences are often the least dramatic. When regulation is slow, people assume “nothing is happening,” even while their tolerance, patience, and decision speed are being quietly altered.
+
+This page will give you a framework to detect and describe regulation as an accumulation process—what repeats, what never stops, and what it costs over time.
+
+
 Many people underestimate spatial influence because they expect influence to be obvious. They look for moments where a room instantly makes them happy, anxious, inspired, or uncomfortable. When nothing dramatic happens, they assume the environment is neutral. But most spatial influence is not dramatic. It is regulatory. It operates the way climate operates. You do not notice the air pressure in a room from minute to minute, yet over time it shapes energy, attention, and strain. Interiors work the same way. They alter the baseline conditions under which cognition and judgment occur.
 
 Slow-acting background regulation is the mechanism by which a space changes a person without appearing to do so. The key is time. A person can tolerate many small costs for a short period. What becomes influential is the accumulation of those costs across hours, days, or repeated exposures. The person does not feel persuaded. They feel worn down, sharpened, unsettled, or stabilized. The environment has not argued with them. It has trained their thresholds.

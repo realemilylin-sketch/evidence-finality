@@ -3,6 +3,13 @@ title: Space as Psychological Infrastructure
 description: Why interiors act less like decoration and more like baseline regulation for perception and judgment.
 ---
 
+**Definition.** Psychological infrastructure is the background structure a space imposes on attention, patience, and judgment—before any conscious evaluation begins.
+
+This matters because people adapt to environments faster than they can describe them. When the background quietly raises vigilance or drains attention, behavior changes are misattributed to personality, mood, or “stress,” instead of being recognized as environmental load.
+
+This page will give you a vocabulary to separate surface aesthetics from the deeper regulatory effects a space applies to thinking and decision-making.
+
+
 Most people think of interiors as settings. A room is treated as a container where life happens, a neutral stage that supports activities without shaping them. When a space is acknowledged as influential, it is usually framed as mood: a room feels cozy, a lobby feels impressive, a restaurant feels energetic. These descriptions are not wrong, but they are incomplete in a way that hides the most important function of space.
 
 Interiors do not merely express an atmosphere. They regulate the baseline conditions under which perception and judgment occur. They do this continuously, without instruction, and often without conscious recognition. This is why the most powerful spatial effects are rarely described as “design.” They are described as comfort, fatigue, restlessness, clarity, hesitation, or relief. Those are psychological outcomes, not aesthetic opinions.
