@@ -17,4 +17,4 @@ This repository is a **public reference mirror** of the documentation site:
 - Not a normative standard
 
 ## Revision policy
-Slow, structure-preserving updates.
+Slow, structure-preserving updates. 
